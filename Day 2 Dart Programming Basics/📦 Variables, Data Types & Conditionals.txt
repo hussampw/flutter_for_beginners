@@ -1,0 +1,48 @@
+📦 Variables, Data Types & Conditionals
+==================================================
+
+📊 Dart Data Types:
+----------------------------------------
+int age = 25
+double price = 99.99
+num quantity = 10
+
+String name = Mohammed Ali
+Multi-line string:   This is a
+  multi-line
+  string
+
+bool isStudent = true
+bool isAdult = true (age >= 18)
+
+List<String> fruits = [Apple, Banana, Orange]
+List<int> numbers = [1, 2, 3, 4, 5]
+
+Map person = {name: Sara, age: 28, city: Riyadh, isStudent: false}
+person["name"] = Sara
+
+🔀 If-Else Statements:
+----------------------------------------
+Grade: B - Very Good! 👍
+
+❓ Ternary Operator:
+----------------------------------------
+Age: 20 → Status: Adult
+Age: 20 → Category: Adult
+
+🔄 Switch Statement:
+----------------------------------------
+📅 Start of the work week!
+
+🧮 Logical Operators:
+----------------------------------------
+✅ Can drive (has license AND is adult)
+✅ Day off! (weekend OR holiday)
+✅ Not raining - Good for outdoor activities!
+
+🎯 Practical Example - User Validation:
+----------------------------------------
+✅ Login successful! Welcome, flutter_dev
+
+==================================================
+✅ Day 2 - Example 1 Complete!
